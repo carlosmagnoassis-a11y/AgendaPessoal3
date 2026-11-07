@@ -9,6 +9,7 @@ O aplicativo permite cadastrar, listar e consultar informações de contatos pes
 ## 2. Desenvolvedor
 
 **Carlos Magno de Assis**
+**Nicolas Cruz**
 
 ## 3. Tecnologias utilizadas
 
