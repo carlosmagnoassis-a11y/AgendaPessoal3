@@ -6,10 +6,10 @@ A Agenda Pessoal é um aplicativo Android desenvolvido como atividade da discipl
 
 O aplicativo permite cadastrar, listar e consultar informações de contatos pessoais, utilizando Kotlin, Jetpack Compose e Navigation Compose.
 
-## 2. Desenvolvedor
+## 2. Desenvolvedores
 
-**Carlos Magno de Assis**
-**Nicolas Cruz**
+- Carlos Magno de Assis
+- Nicolas Cruz
 
 ## 3. Tecnologias utilizadas
 
